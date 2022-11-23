@@ -1,4 +1,4 @@
-#VectorJS
+# VectorJS
 A simple vector math framework for Javascript
 ***
 How to use:

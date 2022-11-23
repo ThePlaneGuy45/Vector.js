@@ -7,7 +7,7 @@ How to use:
 <head>
   <!-- Import VectorJS -->
   <script src="./vector_min.js"></script>
-  <script src="./youscript.js"></script>
+  <script src="./yourscript.js"></script>
 </head>
 <body></body>
 ```

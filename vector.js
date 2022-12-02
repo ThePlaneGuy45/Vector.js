@@ -6,7 +6,7 @@ class Vector2 {
         this.y = y;
     }
     
-    /* Swizzeling *******/
+    /* Swizzling *******/
     get xx() { return new Vector2(this.x, this.x); }
     get xy() { return new Vector2(this.x, this.y); }
     get yx() { return new Vector2(this.y, this.x); }
@@ -75,7 +75,7 @@ class Vector3 {
         this.z = z;
     }
 
-    /* Swizzeling *******/
+    /* Swizzling *******/
     get xx() { return new Vector2(this.x, this.x); }
     get xy() { return new Vector2(this.x, this.y); }
     get xz() { return new Vector2(this.x, this.z); }
@@ -236,7 +236,7 @@ class Vector4 {
         this.w = w;
     }
 
-    /* Swizzeling *******/
+    /* Swizzling *******/
     get xx() { return new Vector2(this.x, this.x); }
     get xy() { return new Vector2(this.x, this.y); }
     get xz() { return new Vector2(this.x, this.z); }
